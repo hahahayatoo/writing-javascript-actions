@@ -14,4 +14,4 @@ jobs:
         with:
           first-greeting: "Learning Lab User"
           second-greeting: "Learning Lab User2"
-          thrid-greeting: "hahahaaytoo"
+          third-greeting: "hahahaaytoo"
